@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+  font-family: var(--f-monts);
+}
+
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+body {
+  margin: 0 auto;
+  padding: 0;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  max-width: 1920px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: var(--c-background);
+}
